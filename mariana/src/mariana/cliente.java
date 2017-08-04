@@ -165,4 +165,10 @@ private Endereco endereco;
 private Telefone celular;
 private Telefone fixo;
 
+    private static class Telefone {
+
+        public Telefone() {
+        }
+    }
+
 }
